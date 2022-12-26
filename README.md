@@ -1,3 +1,5 @@
+# # 정리 중
+
 # Movie App
 
 # # React
@@ -34,5 +36,3 @@ function App() {
 
 <br/>map은 array의 각 item에서 function을 실행하는 array를 가지는
 javascript function이며 그 funtion의 result를 갖는 array를 줌
-
-# # 정리 중
